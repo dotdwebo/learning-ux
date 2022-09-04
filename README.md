@@ -1,2 +1,2 @@
-# learning-ux
+# Learning UX
 Learning Some Laws of User Experience
