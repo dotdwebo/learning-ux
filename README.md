@@ -11,7 +11,7 @@ Learning Some Laws of User Experience
 |    6    | Heuristic        | Miller's Law                | The average person can only keep 7 (plus or minus 2) items in their working memory.                 |          |                              |
 |    7    | Heuristic        | Parkinson's Law             | Any task will inflate until all of the available time is spent.                |          |                              |
 |    8    | Principle        | Doherty Treshold            | Productivity soars when a computer and its users interact at pace (<400 ms) that ensures that neither has to wait on the other.                |          |                              |
-|    9    | Principle        | Occam's Razor               |                 |          |                              |
+|    9    | Principle        | Occam's Razor               | Among competing hypotheses that predict equally well, the one with the fewest assumptions should be selected.                |          |                              |
 |   10    | Principle        | Paretor Principle           |                 |          |                              |
 |   11    | Principle        | Postel's Law                |                 |          |                              |
 |   12    | Principle        | Tesler's Law                |                 |          |                              |
