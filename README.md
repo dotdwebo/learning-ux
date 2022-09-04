@@ -10,7 +10,7 @@ Learning Some Laws of User Experience
 |    3    | Heuristic        | Goal-Gradient Effect        |   The tendency to approach a goal increases with proximity to the goal.               |        Progress Bar  |     ![goal-gradient](https://github.com/dotdwebo/learning-ux/tree/main/src/01-heuristic)                         |
 |    4    | Heuristic        | Hick's Law                  | The time it takes to make a decision increases with the number and complexity of choices.                 | Paradox of Choice         | ![choice](https://github.com/dotdwebo/learning-ux/tree/main/src/01-heuristic)                             |
 |    5    | Heuristic        | Jakob's Law                 | User spends most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they know.               |  Universal Template        |![universal template](https://github.com/dotdwebo/learning-ux/tree/main/src/01-heuristic)                              |
-|    6    | Heuristic        | Miller's Law                | The average person can only keep 7 (plus or minus 2) items in their working memory.                 |          |                              |
+|    6    | Heuristic        | Miller's Law                | The average person can only keep 7 (plus or minus 2) items in their working memory.                 |   +- 7 items       |  ![seven-items](https://github.com/dotdwebo/learning-ux/tree/main/src/01-heuristic)                            |
 |    7    | Heuristic        | Parkinson's Law             | Any task will inflate until all of the available time is spent.                |          |                              |
 ***
 ## Principle 
