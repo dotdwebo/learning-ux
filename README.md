@@ -22,5 +22,5 @@ Learning Some Laws of User Experience
 |   17    | Gestalt          | Law of Uniform Connectedness|  Elements that are visually connected are perceived as more related than elements with no connection.               |          |                              |
 |   18    | Cognitive Bias   | Peak-End Rule               | People judge an experience largely based on how they felt at its peak and its end, rather than total the total sum or average of every moment of the experience.                 |          |                              |
 |   19    | Cognitive Bias   | Serial Position Effect      | Users have a propensity to best remember the first and last items in a series.                |          |                              |
-|   20    | Cognitive Bias   | Von Restorff Effect         |                 |          |                              |
+|   20    | Cognitive Bias   | Von Restorff Effect         | The Von Restorff Effect, also known as The Isolation Effect, predicts that when multiple similar objects are present, the one that differs from the rest is most likely to be remembered.                |          |                              |
 |   21    | Cognitive Bias   | Zeigarnik Effect            |                 |          |                              |
