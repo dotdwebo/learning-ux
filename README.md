@@ -15,7 +15,7 @@ Learning Some Laws of User Experience
 |   10    | Principle        | Pareto Principle            | The Pareto Principle states that for many events, roughly 80% of the effect come from 20% of the causes.                  |          |                              |
 |   11    | Principle        | Postel's Law                | Be liberal in what you accept, and conservative in what you send.                |          |                              |
 |   12    | Principle        | Tesler's Law                | For any system, there is a certain amount of complexity which cannot be reduced.                |          |                              |
-|   13    | Gestalt          | Law of Common Region        |                 |          |                              |
+|   13    | Gestalt          | Law of Common Region        | Elements tend to be perceived into groups if they are sharing an area with a clearly defined boundary.                |          |                              |
 |   14    | Gestalt          | Law of Proximity            |                 |          |                              |
 |   15    | Gestalt          | Law of Pragnanz             |                 |          |                              |
 |   16    | Gestalt          | Law of Similarity           |                 |          |                              |
