@@ -54,7 +54,7 @@ Learning Some Laws of User Experience
 ***
 Source: 
 - [Wikipedia](https://en.wikipedia.org/wiki/User_experience)
-- [LawsOfUX Website](https://lawsofux.com)
+- [Laws Of UX Website](https://lawsofux.com)
 - [nngroup](https://nngroup.com)
 ***
 If you find these repo helpful, you can boost my energy by sending HNS Coin (https://handshake.org) to this address:
