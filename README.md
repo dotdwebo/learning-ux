@@ -19,7 +19,7 @@ Learning Some Laws of User Experience
 |   14    | Gestalt          | Law of Proximity            |   Objects that are near, or proximate to each other, tend to be grouped together.              |          |                              |
 |   15    | Gestalt          | Law of Prägnanz             | People will perceive and interpret ambiguous or complex images as the simplest form possible, because it is the interpelation that requires the least cognitive effort of us.                |          |                              |
 |   16    | Gestalt          | Law of Similarity           | The human eyes tend to perceive similar elements in a design as a complete picture, shape, or group, even if those elements are separated.                |          |                              |
-|   17    | Gestalt          | Law of Uniform Connectedness|                 |          |                              |
+|   17    | Gestalt          | Law of Uniform Connectedness|  Elements that are visually connected are perceived as more related than elements with no connection.               |          |                              |
 |   18    | Cognitive Bias   | Peak-End Rule               |                 |          |                              |
 |   19    | Cognitive Bias   | Serial Position Effect      |                 |          |                              |
 |   20    | Cognitive Bias   | Von Restorff Effect         |                 |          |                              |
