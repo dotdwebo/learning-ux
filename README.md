@@ -11,7 +11,7 @@ Learning Some Laws of User Experience
 
 |    #    | Type             |       Name                  | Description     |Mnemonic  |         Repo                 |
 |-------  |------------------|---------------------------  |-----------------|----------|------------------------------|
-|    1    | Heuristic        | Aesthetic-Usability Effect  | Users often perceive aestethically pleasing design as design that's more usable.                |   Aesthetic       |  ![aesthetic](https://github.com/dotdwebo/learning-ux/tree/main/src/01-heuristic)                           |
+|    1    | Heuristic        | Aesthetic-Usability Effect  | Users often perceive aestethically pleasing design as design that's more usable.                |   Aesthetic       |  ![aesthetic](https://github.com/dotdwebo/learning-ux/tree/main/src/01-heuristic/aesthetic)                           |
 |    2    | Heuristic        | Fitt's Law                  |  The time to acquire a target is a function of the distance to and size of the target.               | Distance & Size         |![Fitt](https://github.com/dotdwebo/learning-ux/tree/main/src/01-heuristic)                              |
 |    3    | Heuristic        | Goal-Gradient Effect        |   The tendency to approach a goal increases with proximity to the goal.               |        Progress Bar  |     ![goal-gradient](https://github.com/dotdwebo/learning-ux/tree/main/src/01-heuristic)                         |
 |    4    | Heuristic        | Hick's Law                  | The time it takes to make a decision increases with the number and complexity of choices.                 | Paradox of Choice         | ![choice](https://github.com/dotdwebo/learning-ux/tree/main/src/01-heuristic)                             |
