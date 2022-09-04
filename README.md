@@ -51,8 +51,13 @@ Learning Some Laws of User Experience
 2. Mnemonics were created to help you remember specific keywords.
 3. The repo will contain more detailed explanations, implementation examples, and exercises.
 
+***
 Source: 
 - [Wikipedia](https://en.wikipedia.org/wiki/User_experience)
 - [LawsOfUX Website](https://lawsofux.com)
 - [nngroup](https://nngroup.com)
+***
+If you find these formats helpful, you can boost my energy by sending HNS to this address:
+
+```$HNS Address: hs1q7wpfy8y7qewcj2fdu92efq78y5hezqryslz48p ```
 
