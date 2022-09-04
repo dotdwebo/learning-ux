@@ -47,9 +47,9 @@ Learning Some Laws of User Experience
 
 
 ***
-1 These notes are not made to make you memorize all the laws in a short time. It was created as a compass that guides you through the User Experience. The more often we implement these laws of UX, the more our skills will increase.
-2 Mnemonics were created to help you remember specific keywords.
-3 The repo will contain more detailed explanations, implementation examples, and exercises.
+1. These notes are not made to make you memorize all the laws in a short time. It was created as a compass that guides you through the User Experience. The more often we implement these laws of UX, the more our skills will increase.
+2. Mnemonics were created to help you remember specific keywords.
+3. The repo will contain more detailed explanations, implementation examples, and exercises.
 
 Source: 
 - [Wikipedia](https://en.wikipedia.org/wiki/User_experience)
