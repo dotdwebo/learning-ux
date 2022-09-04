@@ -26,7 +26,7 @@ Learning Some Laws of User Experience
 |    2    | Principle        | Occam's Razor               | Among competing hypotheses that predict equally well, the one with the fewest assumptions should be selected.                |  Less Assumptions        | ![occam](https://github.com/dotdwebo/learning-ux/tree/main/src/02-principle)                             |
 |   3    | Principle        | Pareto Principle            | The Pareto Principle states that for many events, roughly 80% of the effect come from 20% of the causes.                  |  80:20        |  ![pareto](https://github.com/dotdwebo/learning-ux/tree/main/src/02-principle)                            |
 |   4    | Principle        | Postel's Law                | Be liberal in what you accept, and conservative in what you send.                | liberal-conservative         |![Postel](https://github.com/dotdwebo/learning-ux/tree/main/src/02-principle)                              |
-|   5    | Principle        | Tesler's Law                | For any system, there is a certain amount of complexity which cannot be reduced.                |          |                              |
+|   5    | Principle        | Tesler's Law                | For any system, there is a certain amount of complexity which cannot be reduced.                |  Tolerance        |![Tesler](https://github.com/dotdwebo/learning-ux/tree/main/src/02-principle)                              |
 ***
 ### Gestalt 
 |   #    | Type             |  Name                       |   Description               |      Mnemonic          | Repo                                  |
