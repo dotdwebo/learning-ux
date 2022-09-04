@@ -10,3 +10,7 @@ Learning Some Laws of User Experience
 |    5    | Heuristic        | Jakob's Law               |                 |                              |
 |    6    | Heuristic        | Miller's Law              |                 |                              |
 |    7    | Heuristic        | Parkinson's Law           |                 |                              |
+|    8    | Principle        | Doherty Treshold          |                 |                              |
+|    9    | Principle        | Occam's Razor             |                 |                              |
+|   10    | Principle        | Paretor Principle         |                 |                              |
+|   11    | Postel's Law     | Tesler's Law              |                 |                              |
