@@ -5,7 +5,7 @@ Learning Some Laws of User Experience
 |-------  |------------------|---------------------------  |-----------------|----------|------------------------------|
 |    1    | Heuristic        | Aesthetic-Usability Effect  | Users often perceive aestethically pleasing design as design that's more usable.                |          |                              |
 |    2    | Heuristic        | Fitt's Law                  |  The time to acquire a target is a function of the distance to and size of the target.               |          |                              |
-|    3    | Heuristic        | Goal-Gradient Effect        |                 |          |                              |
+|    3    | Heuristic        | Goal-Gradient Effect        |   The tendency to approach a goal increases with proximity to the goal.               |          |                              |
 |    4    | Heuristic        | Hick's Law                  |                 |          |                              |
 |    5    | Heuristic        | Jakob's Law                 |                 |          |                              |
 |    6    | Heuristic        | Miller's Law                |                 |          |                              |
