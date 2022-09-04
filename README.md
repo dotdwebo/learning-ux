@@ -18,7 +18,7 @@ Learning Some Laws of User Experience
 |   13    | Gestalt          | Law of Common Region        | Elements tend to be perceived into groups if they are sharing an area with a clearly defined boundary.                |          |                              |
 |   14    | Gestalt          | Law of Proximity            |   Objects that are near, or proximate to each other, tend to be grouped together.              |          |                              |
 |   15    | Gestalt          | Law of Prägnanz             | People will perceive and interpret ambiguous or complex images as the simplest form possible, because it is the interpelation that requires the least cognitive effort of us.                |          |                              |
-|   16    | Gestalt          | Law of Similarity           |                 |          |                              |
+|   16    | Gestalt          | Law of Similarity           | The human eyes tend to perceive similar elements in a design as a complete picture, shape, or group, even if those elements are separated.                |          |                              |
 |   17    | Gestalt          | Law of Uniform Connectedness|                 |          |                              |
 |   18    | Cognitive Bias   | Peak-End Rule               |                 |          |                              |
 |   19    | Cognitive Bias   | Serial Position Effect      |                 |          |                              |
