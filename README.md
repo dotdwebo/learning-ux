@@ -8,7 +8,7 @@ Learning Some Laws of User Experience
 |    3    | Heuristic        | Goal-Gradient Effect        |   The tendency to approach a goal increases with proximity to the goal.               |          |                              |
 |    4    | Heuristic        | Hick's Law                  | The time it takes to make a decision increases with the number and complexity of choices.                 |          |                              |
 |    5    | Heuristic        | Jakob's Law                 | User spends most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they know.               |          |                              |
-|    6    | Heuristic        | Miller's Law                |                 |          |                              |
+|    6    | Heuristic        | Miller's Law                | The average person can only keep 7 (plus or minus 2) items in their working memory.                 |          |                              |
 |    7    | Heuristic        | Parkinson's Law             |                 |          |                              |
 |    8    | Principle        | Doherty Treshold            |                 |          |                              |
 |    9    | Principle        | Occam's Razor               |                 |          |                              |
