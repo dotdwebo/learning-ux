@@ -14,7 +14,7 @@ Learning Some Laws of User Experience
 |    9    | Principle        | Occam's Razor               | Among competing hypotheses that predict equally well, the one with the fewest assumptions should be selected.                |          |                              |
 |   10    | Principle        | Pareto Principle            | The Pareto Principle states that for many events, roughly 80% of the effect come from 20% of the causes.                  |          |                              |
 |   11    | Principle        | Postel's Law                | Be liberal in what you accept, and conservative in what you send.                |          |                              |
-|   12    | Principle        | Tesler's Law                |                 |          |                              |
+|   12    | Principle        | Tesler's Law                | For any system, there is a certain amount of complexity which cannot be reduced.                |          |                              |
 |   13    | Gestalt          | Law of Common Region        |                 |          |                              |
 |   14    | Gestalt          | Law of Proximity            |                 |          |                              |
 |   15    | Gestalt          | Law of Pragnanz             |                 |          |                              |
