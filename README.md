@@ -13,7 +13,7 @@ Learning Some Laws of User Experience
 |    8    | Principle        | Doherty Treshold            | Productivity soars when a computer and its users interact at pace (<400 ms) that ensures that neither has to wait on the other.                |          |                              |
 |    9    | Principle        | Occam's Razor               | Among competing hypotheses that predict equally well, the one with the fewest assumptions should be selected.                |          |                              |
 |   10    | Principle        | Pareto Principle            | The Pareto Principle states that for many events, roughly 80% of the effect come from 20% of the causes.                  |          |                              |
-|   11    | Principle        | Postel's Law                |                 |          |                              |
+|   11    | Principle        | Postel's Law                | Be liberal in what you accept, and conservative in what you send.                |          |                              |
 |   12    | Principle        | Tesler's Law                |                 |          |                              |
 |   13    | Gestalt          | Law of Common Region        |                 |          |                              |
 |   14    | Gestalt          | Law of Proximity            |                 |          |                              |
