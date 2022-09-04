@@ -13,4 +13,5 @@ Learning Some Laws of User Experience
 |    8    | Principle        | Doherty Treshold          |                 |                              |
 |    9    | Principle        | Occam's Razor             |                 |                              |
 |   10    | Principle        | Paretor Principle         |                 |                              |
-|   11    | Postel's Law     | Tesler's Law              |                 |                              |
+|   11    | Principle        | Postel's Law              |                 |                              |
+|   12    | Principle        | Tesler's Law              |                 |                              |
