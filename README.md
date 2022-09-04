@@ -2,8 +2,12 @@
 Learning Some Laws of User Experience
 ***
 > ####  User Experience is how a user interacts with and experiences a product, system, or service. It includes a person's perceptions of utility, ease of use, and efficiency.
+
+***
+
+## Laws of UX
  
-## Heuristic 
+### Heuristic 
 
 |    #    | Type             |       Name                  | Description     |Mnemonic  |         Repo                 |
 |-------  |------------------|---------------------------  |-----------------|----------|------------------------------|
@@ -15,7 +19,7 @@ Learning Some Laws of User Experience
 |    6    | Heuristic        | Miller's Law                | The average person can only keep 7 (plus or minus 2) items in their working memory.                 |   +- 7 items       |  ![seven-items](https://github.com/dotdwebo/learning-ux/tree/main/src/01-heuristic)                            |
 |    7    | Heuristic        | Parkinson's Law             | Any task will inflate until all of the available time is spent.                |          |                              |
 ***
-## Principle 
+### Principle 
 |     #    |  Type                |   Name                         | Description                            |  Mnemonic                      |   Repo                                 |
 |---------|------------------|----------------------------|-----------------------------|------------------------|------------------------------------|
 |    1    | Principle        | Doherty Treshold            | Productivity soars when a computer and its users interact at pace (<400 ms) that ensures that neither has to wait on the other.                |          |                              |
@@ -24,7 +28,7 @@ Learning Some Laws of User Experience
 |   4    | Principle        | Postel's Law                | Be liberal in what you accept, and conservative in what you send.                |          |                              |
 |   5    | Principle        | Tesler's Law                | For any system, there is a certain amount of complexity which cannot be reduced.                |          |                              |
 ***
-## Gestalt 
+### Gestalt 
 |   #    | Type             |  Name                       |   Description               |      Mnemonic          | Repo                                  |
 |--------|------------------|-----------------------------|-----------------------------|------------------------|---------------------------------------|
 |   1    | Gestalt          | Law of Common Region        | Elements tend to be perceived into groups if they are sharing an area with a clearly defined boundary.                |          |                              |
@@ -33,7 +37,7 @@ Learning Some Laws of User Experience
 |   4    | Gestalt          | Law of Similarity           | The human eyes tend to perceive similar elements in a design as a complete picture, shape, or group, even if those elements are separated.                |          |                              |
 |   5    | Gestalt          | Law of Uniform Connectedness|  Elements that are visually connected are perceived as more related than elements with no connection.               |          |                              |
 ***
-## Cognitive Bias
+### Cognitive Bias
 |   #   |  Type            |  Name                        | Description                  |  Mnemonic               | Repo                                |
 |-------|------------------|------------------------------|------------------------------|-------------------------|-------------------------------------|
 |   1    | Cognitive Bias   | Peak-End Rule               | People judge an experience largely based on how they felt at its peak and its end, rather than total the total sum or average of every moment of the experience.                 |          |                              |
