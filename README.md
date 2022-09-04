@@ -17,7 +17,7 @@ Learning Some Laws of User Experience
 |   12    | Principle        | Tesler's Law                | For any system, there is a certain amount of complexity which cannot be reduced.                |          |                              |
 |   13    | Gestalt          | Law of Common Region        | Elements tend to be perceived into groups if they are sharing an area with a clearly defined boundary.                |          |                              |
 |   14    | Gestalt          | Law of Proximity            |   Objects that are near, or proximate to each other, tend to be grouped together.              |          |                              |
-|   15    | Gestalt          | Law of Pragnanz             | People will perceive and interpret ambiguous or complex images as the simplest form possible, because it is the interpelation that requires the least cognitive effort of us.                |          |                              |
+|   15    | Gestalt          | Law of Prägnanz             | People will perceive and interpret ambiguous or complex images as the simplest form possible, because it is the interpelation that requires the least cognitive effort of us.                |          |                              |
 |   16    | Gestalt          | Law of Similarity           |                 |          |                              |
 |   17    | Gestalt          | Law of Uniform Connectedness|                 |          |                              |
 |   18    | Cognitive Bias   | Peak-End Rule               |                 |          |                              |
