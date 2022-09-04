@@ -59,5 +59,5 @@ Source:
 ***
 If you find these formats helpful, you can boost my energy by sending HNS to this address:
 
-```$HNS Address: hs1q7wpfy8y7qewcj2fdu92efq78y5hezqryslz48p ```
+``` hs1q7wpfy8y7qewcj2fdu92efq78y5hezqryslz48p ```
 
