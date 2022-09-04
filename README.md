@@ -50,7 +50,7 @@ Learning Some Laws of User Experience
 These notes are not made to make you memorize all the laws in a short time. It was created as a compass that guides you through the User Experience. The more often we implement these laws of UX, the more our skills will increase.
 
 Source: 
-- ![Wikipedia](https://en.wikipedia.org/wiki/User_experience)
-- ![LawsOfUX Website](https://lawsofux.com)
-- ![nngroup](https://nngroup.com)
+- ![Wikipedia] (https://en.wikipedia.org/wiki/User_experience)
+- ![LawsOfUX Website] (https://lawsofux.com)
+- ![nngroup] (https://nngroup.com)
 
