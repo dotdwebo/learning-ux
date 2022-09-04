@@ -44,3 +44,7 @@ Learning Some Laws of User Experience
 |   2    | Cognitive Bias   | Serial Position Effect      | Users have a propensity to best remember the first and last items in a series.                |     Alpha-Omega     | ![serial-position](https://github.com/dotdwebo/learning-ux/tree/main/src/04-cognitive-bias)                             |
 |   3    | Cognitive Bias   | Von Restorff Effect         | The Von Restorff Effect, also known as The Isolation Effect, predicts that when multiple similar objects are present, the one that differs from the rest is most likely to be remembered.                | Isolation         | ![Restorff](https://github.com/dotdwebo/learning-ux/tree/main/src/04-cognitive-bias)                             |
 |   4    | Cognitive Bias   | Zeigarnik Effect            | People remember uncompleted or interrupted tasks better than completed tasks.         | Uncompleteness          |  ![Zeigarnik](https://github.com/dotdwebo/learning-ux/tree/main/src/04-cognitive-bias)                            |
+
+
+***
+These notes are not made to make you memorize all the laws in a short time. It was created as a compass that guides you through the User Experience. The more often we implement these laws of UX, the more our skills will increase.
