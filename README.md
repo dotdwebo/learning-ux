@@ -16,7 +16,7 @@ Learning Some Laws of User Experience
 |   11    | Principle        | Postel's Law                | Be liberal in what you accept, and conservative in what you send.                |          |                              |
 |   12    | Principle        | Tesler's Law                | For any system, there is a certain amount of complexity which cannot be reduced.                |          |                              |
 |   13    | Gestalt          | Law of Common Region        | Elements tend to be perceived into groups if they are sharing an area with a clearly defined boundary.                |          |                              |
-|   14    | Gestalt          | Law of Proximity            |                 |          |                              |
+|   14    | Gestalt          | Law of Proximity            |   Objects that are near, or proximate to each other, tend to be grouped together.              |          |                              |
 |   15    | Gestalt          | Law of Pragnanz             |                 |          |                              |
 |   16    | Gestalt          | Law of Similarity           |                 |          |                              |
 |   17    | Gestalt          | Law of Uniform Connectedness|                 |          |                              |
