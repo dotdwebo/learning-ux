@@ -57,7 +57,7 @@ Source:
 - [LawsOfUX Website](https://lawsofux.com)
 - [nngroup](https://nngroup.com)
 ***
-If you find these formats helpful, you can boost my energy by sending HNS to this address:
+If you find these repo helpful, you can boost my energy by sending HNS Coin (https://handshake.org) to this address:
 
 ``` hs1q7wpfy8y7qewcj2fdu92efq78y5hezqryslz48p ```
 
