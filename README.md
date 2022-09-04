@@ -30,7 +30,11 @@ Learning Some Laws of User Experience
 |   3    | Gestalt          | Law of Prägnanz             | People will perceive and interpret ambiguous or complex images as the simplest form possible, because it is the interpelation that requires the least cognitive effort of us.                |          |                              |
 |   4    | Gestalt          | Law of Similarity           | The human eyes tend to perceive similar elements in a design as a complete picture, shape, or group, even if those elements are separated.                |          |                              |
 |   5    | Gestalt          | Law of Uniform Connectedness|  Elements that are visually connected are perceived as more related than elements with no connection.               |          |                              |
-|   6    | Cognitive Bias   | Peak-End Rule               | People judge an experience largely based on how they felt at its peak and its end, rather than total the total sum or average of every moment of the experience.                 |          |                              |
-|   7    | Cognitive Bias   | Serial Position Effect      | Users have a propensity to best remember the first and last items in a series.                |          |                              |
-|   8    | Cognitive Bias   | Von Restorff Effect         | The Von Restorff Effect, also known as The Isolation Effect, predicts that when multiple similar objects are present, the one that differs from the rest is most likely to be remembered.                |          |                              |
-|   9    | Cognitive Bias   | Zeigarnik Effect            | People remember uncompleted or interrupted tasks better than completed tasks.         |          |                              |
+***
+## Cognitive Bias
+|   #   |  Type            |  Name                        | Description                  |  Mnemonic               | Repo                                |
+|-------|------------------|------------------------------|------------------------------|-------------------------|-------------------------------------|
+|   1    | Cognitive Bias   | Peak-End Rule               | People judge an experience largely based on how they felt at its peak and its end, rather than total the total sum or average of every moment of the experience.                 |          |                              |
+|   2    | Cognitive Bias   | Serial Position Effect      | Users have a propensity to best remember the first and last items in a series.                |          |                              |
+|   3    | Cognitive Bias   | Von Restorff Effect         | The Von Restorff Effect, also known as The Isolation Effect, predicts that when multiple similar objects are present, the one that differs from the rest is most likely to be remembered.                |          |                              |
+|   4    | Cognitive Bias   | Zeigarnik Effect            | People remember uncompleted or interrupted tasks better than completed tasks.         |          |                              |
