@@ -21,6 +21,6 @@ Learning Some Laws of User Experience
 |   16    | Gestalt          | Law of Similarity           | The human eyes tend to perceive similar elements in a design as a complete picture, shape, or group, even if those elements are separated.                |          |                              |
 |   17    | Gestalt          | Law of Uniform Connectedness|  Elements that are visually connected are perceived as more related than elements with no connection.               |          |                              |
 |   18    | Cognitive Bias   | Peak-End Rule               | People judge an experience largely based on how they felt at its peak and its end, rather than total the total sum or average of every moment of the experience.                 |          |                              |
-|   19    | Cognitive Bias   | Serial Position Effect      |                 |          |                              |
+|   19    | Cognitive Bias   | Serial Position Effect      | Users have a propensity to best remember the first and last items in a series.                |          |                              |
 |   20    | Cognitive Bias   | Von Restorff Effect         |                 |          |                              |
 |   21    | Cognitive Bias   | Zeigarnik Effect            |                 |          |                              |
